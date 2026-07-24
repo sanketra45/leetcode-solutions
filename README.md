@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/sanketra45/leetcode-solutions/tree/master/0162-find-peak-element) |
+| [0322-coin-change](https://github.com/sanketra45/leetcode-solutions/tree/master/0322-coin-change) |
 | [0560-subarray-sum-equals-k](https://github.com/sanketra45/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sanketra45/leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0877-stone-game](https://github.com/sanketra45/leetcode-solutions/tree/master/0877-stone-game) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/sanketra45/leetcode-solutions/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/sanketra45/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0797-all-paths-from-source-to-target](https://github.com/sanketra45/leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/sanketra45/leetcode-solutions/tree/master/0841-keys-and-rooms) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/sanketra45/leetcode-solutions/tree/master/0322-coin-change) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sanketra45/leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0877-stone-game](https://github.com/sanketra45/leetcode-solutions/tree/master/0877-stone-game) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/sanketra45/leetcode-solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
