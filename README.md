@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0162-find-peak-element](https://github.com/sanketra45/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0560-subarray-sum-equals-k](https://github.com/sanketra45/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0877-stone-game](https://github.com/sanketra45/leetcode-solutions/tree/master/0877-stone-game) |
 | [0997-find-the-town-judge](https://github.com/sanketra45/leetcode-solutions/tree/master/0997-find-the-town-judge) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/sanketra45/leetcode-solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Hash Table
@@ -65,9 +66,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/sanketra45/leetcode-solutions/tree/master/0877-stone-game) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/sanketra45/leetcode-solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Matrix
 |  |
 | ------- |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/sanketra45/leetcode-solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
+## Math
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/sanketra45/leetcode-solutions/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/sanketra45/leetcode-solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
