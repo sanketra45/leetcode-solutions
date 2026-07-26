@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/sanketra45/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0162-find-peak-element](https://github.com/sanketra45/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0322-coin-change](https://github.com/sanketra45/leetcode-solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/sanketra45/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/sanketra45/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0494-target-sum](https://github.com/sanketra45/leetcode-solutions/tree/master/0494-target-sum) |
 | [0797-all-paths-from-source-to-target](https://github.com/sanketra45/leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
 ## Binary Search
