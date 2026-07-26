@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sanketra45/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0072-edit-distance](https://github.com/sanketra45/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/sanketra45/leetcode-solutions/tree/master/0091-decode-ways) |
 ## Sliding Window
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/sanketra45/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/sanketra45/leetcode-solutions/tree/master/0091-decode-ways) |
 | [0322-coin-change](https://github.com/sanketra45/leetcode-solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/sanketra45/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
