@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/sanketra45/leetcode-solutions/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/sanketra45/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0997-find-the-town-judge](https://github.com/sanketra45/leetcode-solutions/tree/master/0997-find-the-town-judge) |
+| [1004-max-consecutive-ones-iii](https://github.com/sanketra45/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/sanketra45/leetcode-solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Hash Table
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/sanketra45/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/sanketra45/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/sanketra45/leetcode-solutions/tree/master/0162-find-peak-element) |
+| [1004-max-consecutive-ones-iii](https://github.com/sanketra45/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## String
 |  |
 | ------- |
@@ -81,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sanketra45/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0904-fruit-into-baskets](https://github.com/sanketra45/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
+| [1004-max-consecutive-ones-iii](https://github.com/sanketra45/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
