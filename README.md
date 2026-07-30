@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/sanketra45/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sanketra45/leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0846-hand-of-straights](https://github.com/sanketra45/leetcode-solutions/tree/master/0846-hand-of-straights) |
+| [0860-lemonade-change](https://github.com/sanketra45/leetcode-solutions/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/sanketra45/leetcode-solutions/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/sanketra45/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0997-find-the-town-judge](https://github.com/sanketra45/leetcode-solutions/tree/master/0997-find-the-town-judge) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/sanketra45/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sanketra45/leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0846-hand-of-straights](https://github.com/sanketra45/leetcode-solutions/tree/master/0846-hand-of-straights) |
+| [0860-lemonade-change](https://github.com/sanketra45/leetcode-solutions/tree/master/0860-lemonade-change) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/sanketra45/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Sorting
 |  |
