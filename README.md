@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/sanketra45/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/sanketra45/leetcode-solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/sanketra45/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2643-row-with-maximum-ones](https://github.com/sanketra45/leetcode-solutions/tree/master/2643-row-with-maximum-ones) |
 | [3477-fruits-into-baskets-ii](https://github.com/sanketra45/leetcode-solutions/tree/master/3477-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/sanketra45/leetcode-solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [2643-row-with-maximum-ones](https://github.com/sanketra45/leetcode-solutions/tree/master/2643-row-with-maximum-ones) |
 ## Math
 |  |
 | ------- |
