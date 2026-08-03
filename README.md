@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/sanketra45/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/sanketra45/leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/sanketra45/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/sanketra45/leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/sanketra45/leetcode-solutions/tree/master/0841-keys-and-rooms) |
 | [1020-number-of-enclaves](https://github.com/sanketra45/leetcode-solutions/tree/master/1020-number-of-enclaves) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/sanketra45/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0322-coin-change](https://github.com/sanketra45/leetcode-solutions/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/sanketra45/leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/sanketra45/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/sanketra45/leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/sanketra45/leetcode-solutions/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/sanketra45/leetcode-solutions/tree/master/0994-rotting-oranges) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/sanketra45/leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/sanketra45/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/sanketra45/leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/sanketra45/leetcode-solutions/tree/master/0841-keys-and-rooms) |
 | [0997-find-the-town-judge](https://github.com/sanketra45/leetcode-solutions/tree/master/0997-find-the-town-judge) |
@@ -81,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/sanketra45/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/sanketra45/leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/sanketra45/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/sanketra45/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sanketra45/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Backtracking
@@ -189,4 +193,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/sanketra45/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/sanketra45/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/sanketra45/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
