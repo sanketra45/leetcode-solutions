@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/sanketra45/leetcode-solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sanketra45/leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sanketra45/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1695-maximum-erasure-value](https://github.com/sanketra45/leetcode-solutions/tree/master/1695-maximum-erasure-value) |
 | [1920-build-array-from-permutation](https://github.com/sanketra45/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/sanketra45/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2643-row-with-maximum-ones](https://github.com/sanketra45/leetcode-solutions/tree/master/2643-row-with-maximum-ones) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/sanketra45/leetcode-solutions/tree/master/0846-hand-of-straights) |
 | [0904-fruit-into-baskets](https://github.com/sanketra45/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0997-find-the-town-judge](https://github.com/sanketra45/leetcode-solutions/tree/master/0997-find-the-town-judge) |
+| [1695-maximum-erasure-value](https://github.com/sanketra45/leetcode-solutions/tree/master/1695-maximum-erasure-value) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/sanketra45/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sanketra45/leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sanketra45/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1695-maximum-erasure-value](https://github.com/sanketra45/leetcode-solutions/tree/master/1695-maximum-erasure-value) |
 ## Dynamic Programming
 |  |
 | ------- |
