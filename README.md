@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/sanketra45/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0162-find-peak-element](https://github.com/sanketra45/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/sanketra45/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0229-majority-element-ii](https://github.com/sanketra45/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sanketra45/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0322-coin-change](https://github.com/sanketra45/leetcode-solutions/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/sanketra45/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sanketra45/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0229-majority-element-ii](https://github.com/sanketra45/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/sanketra45/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sanketra45/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/sanketra45/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/sanketra45/leetcode-solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/sanketra45/leetcode-solutions/tree/master/0016-3sum-closest) |
+| [0229-majority-element-ii](https://github.com/sanketra45/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/sanketra45/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sanketra45/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/sanketra45/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
@@ -233,4 +236,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/sanketra45/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/sanketra45/leetcode-solutions/tree/master/0229-majority-element-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/sanketra45/leetcode-solutions/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
