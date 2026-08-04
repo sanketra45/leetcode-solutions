@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sanketra45/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1695-maximum-erasure-value](https://github.com/sanketra45/leetcode-solutions/tree/master/1695-maximum-erasure-value) |
 | [1920-build-array-from-permutation](https://github.com/sanketra45/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
+| [1991-find-the-middle-index-in-array](https://github.com/sanketra45/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/sanketra45/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2643-row-with-maximum-ones](https://github.com/sanketra45/leetcode-solutions/tree/master/2643-row-with-maximum-ones) |
 | [3477-fruits-into-baskets-ii](https://github.com/sanketra45/leetcode-solutions/tree/master/3477-fruits-into-baskets-ii) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/sanketra45/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/sanketra45/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/sanketra45/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1991-find-the-middle-index-in-array](https://github.com/sanketra45/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
 ## Depth-First Search
 |  |
 | ------- |
