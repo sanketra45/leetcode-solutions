@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sanketra45/leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sanketra45/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1695-maximum-erasure-value](https://github.com/sanketra45/leetcode-solutions/tree/master/1695-maximum-erasure-value) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/sanketra45/leetcode-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1920-build-array-from-permutation](https://github.com/sanketra45/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1991-find-the-middle-index-in-array](https://github.com/sanketra45/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/sanketra45/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/sanketra45/leetcode-solutions/tree/master/0877-stone-game) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/sanketra45/leetcode-solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sanketra45/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/sanketra45/leetcode-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Matrix
 |  |
 | ------- |
