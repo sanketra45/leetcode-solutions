@@ -330,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/sanketra45/leetcode-solutions/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/sanketra45/leetcode-solutions/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0577-employee-bonus](https://github.com/sanketra45/leetcode-solutions/tree/master/0577-employee-bonus) |
+| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/sanketra45/leetcode-solutions/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 ## Queue
 |  |
 | ------- |
