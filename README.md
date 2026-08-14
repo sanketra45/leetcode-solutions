@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/sanketra45/leetcode-solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/sanketra45/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0039-combination-sum](https://github.com/sanketra45/leetcode-solutions/tree/master/0039-combination-sum) |
+| [0049-group-anagrams](https://github.com/sanketra45/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/sanketra45/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/sanketra45/leetcode-solutions/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/sanketra45/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sanketra45/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/sanketra45/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/sanketra45/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/sanketra45/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/sanketra45/leetcode-solutions/tree/master/0205-isomorphic-strings) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sanketra45/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/sanketra45/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/sanketra45/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/sanketra45/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/sanketra45/leetcode-solutions/tree/master/0076-minimum-window-substring) |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/sanketra45/leetcode-solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/sanketra45/leetcode-solutions/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/sanketra45/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0229-majority-element-ii](https://github.com/sanketra45/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/sanketra45/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sanketra45/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
