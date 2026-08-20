@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/sanketra45/leetcode-solutions/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/sanketra45/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/sanketra45/leetcode-solutions/tree/master/0066-plus-one) |
+| [0090-subsets-ii](https://github.com/sanketra45/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/sanketra45/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/sanketra45/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/sanketra45/leetcode-solutions/tree/master/0135-candy) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/sanketra45/leetcode-solutions/tree/master/0039-combination-sum) |
+| [0090-subsets-ii](https://github.com/sanketra45/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0494-target-sum](https://github.com/sanketra45/leetcode-solutions/tree/master/0494-target-sum) |
 | [0797-all-paths-from-source-to-target](https://github.com/sanketra45/leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
 ## Binary Search
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/sanketra45/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0268-missing-number](https://github.com/sanketra45/leetcode-solutions/tree/master/0268-missing-number) |
 | [0832-flipping-an-image](https://github.com/sanketra45/leetcode-solutions/tree/master/0832-flipping-an-image) |
 ## Pigeonhole Principle
