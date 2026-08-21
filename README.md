@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/sanketra45/leetcode-solutions/tree/master/0039-combination-sum) |
+| [0077-combinations](https://github.com/sanketra45/leetcode-solutions/tree/master/0077-combinations) |
 | [0090-subsets-ii](https://github.com/sanketra45/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0494-target-sum](https://github.com/sanketra45/leetcode-solutions/tree/master/0494-target-sum) |
 | [0797-all-paths-from-source-to-target](https://github.com/sanketra45/leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
