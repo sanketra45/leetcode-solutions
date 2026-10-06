@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/sanketra45/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/sanketra45/leetcode-solutions/tree/master/0135-candy) |
 | [0162-find-peak-element](https://github.com/sanketra45/leetcode-solutions/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/sanketra45/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/sanketra45/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/sanketra45/leetcode-solutions/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/sanketra45/leetcode-solutions/tree/master/0229-majority-element-ii) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/sanketra45/leetcode-solutions/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/sanketra45/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/sanketra45/leetcode-solutions/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/sanketra45/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0877-stone-game](https://github.com/sanketra45/leetcode-solutions/tree/master/0877-stone-game) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/sanketra45/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/sanketra45/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/sanketra45/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/sanketra45/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/sanketra45/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/sanketra45/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sanketra45/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
