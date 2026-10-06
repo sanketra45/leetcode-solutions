@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/sanketra45/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/sanketra45/leetcode-solutions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/sanketra45/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/sanketra45/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sanketra45/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/sanketra45/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/sanketra45/leetcode-solutions/tree/master/0130-surrounded-regions) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/sanketra45/leetcode-solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/sanketra45/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/sanketra45/leetcode-solutions/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/sanketra45/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sanketra45/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/sanketra45/leetcode-solutions/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/sanketra45/leetcode-solutions/tree/master/0494-target-sum) |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/sanketra45/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sanketra45/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0268-missing-number](https://github.com/sanketra45/leetcode-solutions/tree/master/0268-missing-number) |
 | [0832-flipping-an-image](https://github.com/sanketra45/leetcode-solutions/tree/master/0832-flipping-an-image) |
