@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/sanketra45/leetcode-solutions/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/sanketra45/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/sanketra45/leetcode-solutions/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/sanketra45/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0090-subsets-ii](https://github.com/sanketra45/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/sanketra45/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/sanketra45/leetcode-solutions/tree/master/0130-surrounded-regions) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/sanketra45/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sanketra45/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sanketra45/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/sanketra45/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/sanketra45/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/sanketra45/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sanketra45/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/sanketra45/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/sanketra45/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
+| [0074-search-a-2d-matrix](https://github.com/sanketra45/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/sanketra45/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sanketra45/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0766-toeplitz-matrix](https://github.com/sanketra45/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
