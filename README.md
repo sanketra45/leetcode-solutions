@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/sanketra45/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/sanketra45/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sanketra45/leetcode-solutions/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/sanketra45/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/sanketra45/leetcode-solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/sanketra45/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/sanketra45/leetcode-solutions/tree/master/0049-group-anagrams) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sanketra45/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/sanketra45/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/sanketra45/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0072-edit-distance](https://github.com/sanketra45/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/sanketra45/leetcode-solutions/tree/master/0091-decode-ways) |
 | [0322-coin-change](https://github.com/sanketra45/leetcode-solutions/tree/master/0322-coin-change) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/sanketra45/leetcode-solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/sanketra45/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sanketra45/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/sanketra45/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/sanketra45/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/sanketra45/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/sanketra45/leetcode-solutions/tree/master/0143-reorder-list) |
@@ -362,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sanketra45/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/sanketra45/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/sanketra45/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/sanketra45/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
@@ -370,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sanketra45/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/sanketra45/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/sanketra45/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/sanketra45/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
