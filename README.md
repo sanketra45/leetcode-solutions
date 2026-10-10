@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/sanketra45/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/sanketra45/leetcode-solutions/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/sanketra45/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/sanketra45/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/sanketra45/leetcode-solutions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/sanketra45/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/sanketra45/leetcode-solutions/tree/master/0078-subsets) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/sanketra45/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sanketra45/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/sanketra45/leetcode-solutions/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/sanketra45/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/sanketra45/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/sanketra45/leetcode-solutions/tree/master/0091-decode-ways) |
 | [0322-coin-change](https://github.com/sanketra45/leetcode-solutions/tree/master/0322-coin-change) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/sanketra45/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/sanketra45/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/sanketra45/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/sanketra45/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/sanketra45/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sanketra45/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
