@@ -1,8 +1,11 @@
 class Solution {
     public int countSquares(int[][] matrix) {
-        int m = matrix.length, n = matrix[0].length;
+        int m = matrix.length;
+        int n = matrix[0].length;
+
         int[][] dp = new int[m][n];
 
+        // COPY THE FIRST ROW AND FIRST COLMN OF THE DP WITH GIVEN ARRAY
         for(int i = 0; i < m; i++)
         {
             dp[i][0] = matrix[i][0];
@@ -13,6 +16,7 @@ class Solution {
             dp[0][j] = matrix[0][j];
         }
 
+        // FILLING THE DP ARRAY
         for(int i = 1; i < m; i++)
         {
             for(int j = 1; j < n; j++)
