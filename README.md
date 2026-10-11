@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/sanketra45/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0941-valid-mountain-array](https://github.com/sanketra45/leetcode-solutions/tree/master/0941-valid-mountain-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sanketra45/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0977-squares-of-a-sorted-array](https://github.com/sanketra45/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/sanketra45/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/sanketra45/leetcode-solutions/tree/master/0997-find-the-town-judge) |
 | [1004-max-consecutive-ones-iii](https://github.com/sanketra45/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/sanketra45/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/sanketra45/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0846-hand-of-straights](https://github.com/sanketra45/leetcode-solutions/tree/master/0846-hand-of-straights) |
+| [0977-squares-of-a-sorted-array](https://github.com/sanketra45/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/sanketra45/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3536-maximum-product-of-two-digits](https://github.com/sanketra45/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Segment Tree
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/sanketra45/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/sanketra45/leetcode-solutions/tree/master/0763-partition-labels) |
 | [0832-flipping-an-image](https://github.com/sanketra45/leetcode-solutions/tree/master/0832-flipping-an-image) |
+| [0977-squares-of-a-sorted-array](https://github.com/sanketra45/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/sanketra45/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Divide and Conquer
 |  |
