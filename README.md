@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/sanketra45/leetcode-solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sanketra45/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/sanketra45/leetcode-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/sanketra45/leetcode-solutions/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Matrix
 |  |
 | ------- |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/sanketra45/leetcode-solutions/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sanketra45/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [3536-maximum-product-of-two-digits](https://github.com/sanketra45/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/sanketra45/leetcode-solutions/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Game Theory
 |  |
 | ------- |
