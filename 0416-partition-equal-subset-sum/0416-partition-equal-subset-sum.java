@@ -1,14 +1,17 @@
 class Solution {
     public boolean canPartition(int[] nums) {
-        
-        int sum = 0;
-        for(int num : nums) sum += num;
+        int totalSum = 0;
 
-        if(sum % 2 != 0) return false;
+        for(int num : nums)
+        {
+            totalSum += num;
+        }
 
-        int target = sum / 2;
+        int target = totalSum / 2;
+
+        if(totalSum % 2 != 0) return false;
+
         boolean[] dp = new boolean[target + 1];
-
         dp[0] = true;
 
         for(int num : nums)
