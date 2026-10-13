@@ -1,14 +1,12 @@
 class Solution {
     public List<List<Integer>> combinationSum(int[] candidates, int target) {
-
         //  IN THIS PROBLEM, WE HAVE TWO CHOICES EITHER WE PICK THE ELEMENT TO FORM THE COMBINATIONS OR NOT
         // FIRST WE PICK THE CURRENT ELEMENT IF THE SUM IS NOT FORMED THEN WE REMOVE IT AND BACKTRACK WITH ANOTHER ELEMENT
         // ADD THE COMBINATIONS IN THE RESULT LIST AND RETUEN IT
         
         List<List<Integer>> result = new ArrayList<>();
-        List<Integer> list = new ArrayList<>();
 
-        backTrack(0, target, result, list, candidates);
+        backTrack(0, target, result, new ArrayList<>(), candidates);
 
         return result;
     }
